@@ -57,7 +57,7 @@ r'''
 =========''']
 
 
-palavras = ["facil","medio"]
+palavras = ["facil","medio","dificil"]
 
 numeroaleatorio = random.randint(0, len(palavras)-1)
 palavraSelecionada = palavras[numeroaleatorio]
